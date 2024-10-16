@@ -1,0 +1,252 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/sangdang079/Script-On-Off/refs/heads/main/Sangdang"))()
+local Main = Library:NewWindow("Sano Hub")
+
+local Tab1 = Main:NewSection(":D")
+
+Tab1:CreateToggle(":D", function(Value)
+    AutoLucky = Value
+end)
+
+task.spawn(function()
+  while task.wait() do
+    if AutoLucky then
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-85, 168, -913)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(62, 96, -851)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(76, 44, -623)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-262, 28, -111)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-555, 100, -290)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(120, 60, 210)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(470, 64, -53)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(666, 64, -136)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1177, -95, 235)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1267, -139, -286)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1259, -134, -193)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1278, -163, 161)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1852, -189, -319)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1649, -220, -172)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1740, -223, 80)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1654, -274, 300)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1653, -274, 440)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1818, -236, 226)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1971, -236, 189)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1952, -238, 86)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2042, -238, 127)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2037, -254, 302)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2133, -258, 309)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2191, -263, 341)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2207, -258, 230)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2146, -237, 124)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2208, -229, 77)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1852, -189, -319)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2159, -188, -306)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2207, -258, 230)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2623, -247, 968)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2462, -246, 721)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2532, -251, 478)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2015, -254, 284)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1923, -261, 358)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1920, -262, 285)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1579, -286, 153)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1232, -165, 335)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1237, -165, 274)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1248, -161, 75)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1249, -161, 50)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1505, -286, 173)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1635, -214, 59)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1656, -220, 29)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1707, -220, -49)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1774, -221, -50)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1795, -220, -46)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1993, -237, 139)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1978, -238, 107)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2019, -237, 44)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2075, -237, 80)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2157, -237, 80)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2212, -247, 171)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2191, -218, -47)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2103, -214, -20)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2133, -218, -68)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1965, -200, -135)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1973, -201, -183)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1915, -202, -216)
+
+wait(1)
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2119, -189, -299)
+
+    end
+  end
+end)
